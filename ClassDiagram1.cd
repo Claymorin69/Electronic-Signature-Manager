@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Практика.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABAAAACAAAACAAAYAAAEEGAAAAAAAgA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Практика.Form2">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAACAAAAAAAACAAAgCAMA7AAgEAHAPAAQBAgA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Практика.Form3">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAQACAAAAAAAACAAAICAAgIAEAEAEAAAAAAAgA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Практика.Form4">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAgAAAACAwAAAAAACAAAICAAgIEEAEAEAAAAAAAgA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Практика.Form5">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAgAAAASAQAACAEACAAAICAEg4EEAEEHAIAAAAAIA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Практика.Form6">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAAAAAQSAQAAABAACAAABCIEg4EEAEMHAAAAAAAAA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Практика.Form7">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CGAAAAAAQSAVIACBACCAEEBCIEg4EEAEEHAIAIAAAAA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
